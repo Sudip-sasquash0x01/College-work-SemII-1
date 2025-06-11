@@ -6,7 +6,7 @@ A fully responsive coffee shop website built with modern HTML5 and CSS3, showcas
 
 ## 🌟 Live Demo
 
-[View Live Website](https://sudip-sasquash0x01.github.io/School-Project-SemII-1/)
+[View Live Website](https://sudip-sasquash0x01.github.io/College-work-SemII-1/)
 
 ## 📋 Table of Contents
 
